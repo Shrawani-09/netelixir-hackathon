@@ -5,6 +5,7 @@ across Google Ads, Meta Ads, and Bing Ads using historical campaign data.
 
 ## Team
 - Shrawani Palange — IIT Indore
+- Rashi Singh - IIT Indore
 
 ## Python Version
 Python 3.13.2
